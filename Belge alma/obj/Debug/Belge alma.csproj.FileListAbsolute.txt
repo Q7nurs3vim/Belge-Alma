@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\bin\Debug\Belge alma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\bin\Debug\Belge alma.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\bin\Debug\Belge alma.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge_alma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge_alma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Belge alma\Belge alma\obj\Debug\Belge alma.pdb
